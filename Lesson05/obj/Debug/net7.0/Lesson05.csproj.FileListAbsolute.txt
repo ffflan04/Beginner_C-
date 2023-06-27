@@ -1,0 +1,15 @@
+/Users/nakajimataisei/Projects/C.Lesson01/Lesson05/bin/Debug/net7.0/Lesson05
+/Users/nakajimataisei/Projects/C.Lesson01/Lesson05/bin/Debug/net7.0/Lesson05.deps.json
+/Users/nakajimataisei/Projects/C.Lesson01/Lesson05/bin/Debug/net7.0/Lesson05.runtimeconfig.json
+/Users/nakajimataisei/Projects/C.Lesson01/Lesson05/bin/Debug/net7.0/Lesson05.dll
+/Users/nakajimataisei/Projects/C.Lesson01/Lesson05/bin/Debug/net7.0/Lesson05.pdb
+/Users/nakajimataisei/Projects/C.Lesson01/Lesson05/obj/Debug/net7.0/Lesson05.csproj.AssemblyReference.cache
+/Users/nakajimataisei/Projects/C.Lesson01/Lesson05/obj/Debug/net7.0/Lesson05.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nakajimataisei/Projects/C.Lesson01/Lesson05/obj/Debug/net7.0/Lesson05.AssemblyInfoInputs.cache
+/Users/nakajimataisei/Projects/C.Lesson01/Lesson05/obj/Debug/net7.0/Lesson05.AssemblyInfo.cs
+/Users/nakajimataisei/Projects/C.Lesson01/Lesson05/obj/Debug/net7.0/Lesson05.csproj.CoreCompileInputs.cache
+/Users/nakajimataisei/Projects/C.Lesson01/Lesson05/obj/Debug/net7.0/Lesson05.dll
+/Users/nakajimataisei/Projects/C.Lesson01/Lesson05/obj/Debug/net7.0/refint/Lesson05.dll
+/Users/nakajimataisei/Projects/C.Lesson01/Lesson05/obj/Debug/net7.0/Lesson05.pdb
+/Users/nakajimataisei/Projects/C.Lesson01/Lesson05/obj/Debug/net7.0/Lesson05.genruntimeconfig.cache
+/Users/nakajimataisei/Projects/C.Lesson01/Lesson05/obj/Debug/net7.0/ref/Lesson05.dll
